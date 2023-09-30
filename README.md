@@ -15,7 +15,7 @@ you can add levels in the levels file directory. levels start at index 0 and go 
 
 level formatting (no spaces):
 load string is formatted as follows:
- 
+ ```
 there are 2 major sections divided by a "#". The first major section represents the objects on the board
 e - empty space
 w - wall
@@ -35,6 +35,6 @@ for example, a 5x5 area surrounded by walls, a player at (1, 1), and a player ob
 |----------section 1----------|----------section 2----------|
 
 unidentified characters will be interpreted as an "e"
-
+```
 
 # level formatting can also be found in GameHandler.java
