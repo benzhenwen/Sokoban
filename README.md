@@ -1,5 +1,5 @@
 # Sokoban
-it's the Japanese block pusher game (:
+it's another clone the Japanese block pusher game (:
 
 # controls
 wasd/arrows - navigating menu / movement
